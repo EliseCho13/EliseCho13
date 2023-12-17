@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/EliseCho13?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/EliseCho13?style=social"> &nbsp;&nbsp; <img alt="EliseCho13 | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/EliseCho13?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/EliseCho13?style=social"> <!--&nbsp;&nbsp; <img alt="EliseCho13 | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />-->
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Youji+Cho+%3C3;Welcome+to+my+profile!" alt="Title"></img>
@@ -24,8 +24,8 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliseCho13-tn&layout=compact&show_icon=true&theme=algolia" alt="EliseCho13-tn-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=EliseCho13-tn&layout=compact&show_icon=true&theme=algolia" alt="EliseCho13-tn-stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliseCho13&layout=compact&show_icon=true&theme=algolia" alt="EliseCho13-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=EliseCho13&layout=compact&show_icon=true&theme=algolia" alt="EliseCho13-tn-stats"/>
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=EliseCho13-tn&theme=algolia&background=0d1117&hide_border=true" />
