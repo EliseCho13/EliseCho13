@@ -8,12 +8,13 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is **Youji Cho**
+- :memo: My full name is **Youji Cho**
 - :school: I'm currently 4th year student at **SKKU - SungKyunKwan University**
 - :books: My major is **Computer Science and Engineering**
-- :earth_asia: I'm currently living in **Suwon, Korea**
+- :house: I'm currently living in **Suwon, Korea**
 - :computer: I'm a Frontend Developer, Web Publisher, and Frontend Engineer.
 - :monocle_face: I'm interested in coding, drawing, writing, and reading.
+- :earth_asia: I can speak English, Korean, and a little bit of Spanish.
 - :sunglasses: I love ***Learning new things***
 <!--<img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>-->
 
@@ -29,7 +30,7 @@
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=EliseCho13&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=EliseCho13&theme=react-dark"/>
+  <!--<img src="https://activity-graph.herokuapp.com/graph?username=EliseCho13&theme=react-dark"/>-->
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
