@@ -33,7 +33,7 @@
   <!--<img src="https://activity-graph.herokuapp.com/graph?username=EliseCho13&theme=react-dark"/>-->
 </div>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Here are my Contact and more Information about me!
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Contact & More Information!
 <p align="center">
   <a href="mailto:youjicho@g.skku.edu" >
     <img align="center" alt="EliseCho13 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
