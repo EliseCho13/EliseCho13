@@ -39,7 +39,7 @@
     <img align="center" alt="EliseCho13 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/EliseCho13/" target="_blank">
+  <a href="https://www.linkedin.com/in/%EC%9C%A0%EC%A7%80-%EC%A1%B0-ba82b6298/" target="_blank">
     <img align="center" alt="EliseCho13 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
