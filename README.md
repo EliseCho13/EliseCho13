@@ -24,12 +24,12 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliseCho13&layout=compact&show_icon=true&theme=algolia" alt="EliseCho13-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=EliseCho13&layout=compact&show_icon=true&theme=algolia" alt="EliseCho13-tn-stats"/>
+<img height="150em" padding="2em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliseCho13&layout=compact&show_icon=true&theme=algolia&layout=donut" alt="EliseCho13-langs"/>
+<img height="150em" padding="2em" src="https://github-readme-stats.vercel.app/api/?username=EliseCho13&layout=compact&show_icon=true&theme=algolia" alt="EliseCho13-tn-stats"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=EliseCho13-tn&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=EliseCho13-tn&theme=react-dark"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=EliseCho13&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=EliseCho13&theme=react-dark"/>
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
