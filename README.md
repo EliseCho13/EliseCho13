@@ -44,7 +44,7 @@
   </a> &nbsp;&nbsp;
   
   <a href="https://youjicho.netlify.app/" target="_blank">
-      <img align="center" alt="EliseCho13 | Portfolio" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+      <img align="center" alt="EliseCho13 | Portfolio" width="24px" src="https://github.com/EliseCho13/EliseCho13/blob/main/logo.png" />
   </a> &nbsp;&nbsp;
   
   <a href="https://profile-summary-for-github.herokuapp.com/user/EliseCho13" target="_blank">
