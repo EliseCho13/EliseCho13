@@ -19,7 +19,7 @@
 <!--<img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>-->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
-![TypeScript](https://img.shields.io/badge/typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white) ![Sass](https://img.shields.io/badge/sass-cc6699.svg?style=for-the-badge&logo=sass&logoColor=white) ![Styled-Component](https://img.shields.io/badge/StyledComponent-pink.svg?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCss](https://img.shields.io/badge/TailwindCss-#06b6d4.svg?style=for-the-badge&logo=tailwind&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white) ![Sass](https://img.shields.io/badge/sass-cc6699.svg?style=for-the-badge&logo=sass&logoColor=white) ![Styled-Component](https://img.shields.io/badge/StyledComponent-pink.svg?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCss](https://img.shields.io/badge/tailwindcss-#06b6d4.svg?style=for-the-badge&logo=tailwind&logoColor=white)
 
 ![ReactJs](https://img.shields.io/badge/React-61DBFB.svg?style=for-the-badge&logo=react&logoColor=1C2C4C) ![VueJs](https://img.shields.io/badge/Vue.js-42B883.svg?style=for-the-badge&logo=Vue.js&logoColor=35495E) ![NextJs](https://img.shields.io/badge/Next.js-black.svg?style=for-the-badge&logo=Next.js&logoColor=white)
 
@@ -67,7 +67,7 @@
 
 Credit: [tienhuynh-tn](https://github.com/tienhuynh-tn)
 
-Last Edited on: 02/01/2024
+Last Edited on: 20/01/2024
 
 <!--
 **EliseCho13/EliseCho13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
